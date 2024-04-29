@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "339825320378",
+    "project_id": "odiyo-c8b62",
+    "storage_bucket": "odiyo-c8b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339825320378:android:1d28d76996da77b6417d83",
+        "android_client_info": {
+          "package_name": "com.odiyo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339825320378-fr9rkqn1a6n3p8ug79pau0up50rdrqta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odiyo.app",
+            "certificate_hash": "afbdb2993005807a187ad5503fa7b95c3ec96a27"
+          }
+        },
+        {
+          "client_id": "339825320378-hitlekjvh9j1h4cf1uqsv0md01grlea4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMns4E23F8CFo0xK3DVacizVREYd8gA1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339825320378-hitlekjvh9j1h4cf1uqsv0md01grlea4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339825320378-3ggkik6fjp392lbdalt9jmls79oi3cgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odiyo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
